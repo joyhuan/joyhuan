@@ -8,4 +8,7 @@ I'm a photographer, connoisseur, software engineer, and national athlete.
 
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
