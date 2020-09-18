@@ -12,7 +12,7 @@ I have several beloved repos hidden due to integrity reason but I do write C++ a
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Verilog   15 mins         █████████████████████████   99.61 % 
 ```
 <!--END_SECTION:waka-->
 
