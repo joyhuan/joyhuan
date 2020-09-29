@@ -12,9 +12,7 @@ I have several beloved repos hidden due to integrity reason but I do write C++ a
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-Java         33 mins         ██████████████▓░░░░░░░░░░   58.79 % 
-Python       21 mins         █████████▒░░░░░░░░░░░░░░░   37.89 % 
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
