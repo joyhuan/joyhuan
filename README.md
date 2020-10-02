@@ -12,7 +12,8 @@ I have several beloved repos hidden due to integrity reason but I do write C++ a
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C          18 mins         ███████████████████████▒░   93.06 % 
+C++        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 <!--END_SECTION:waka-->
 
