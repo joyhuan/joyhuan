@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Joy! 
 I'm a photographer, connoisseur, software engineer, and national athlete. 
 
-Interested in network, infra, systems, and optimization. Love to sync with any interesting/excited/latest techs. 
+Interested in network, infra, systems, and optimization. Love to sync with any interesting/exciting/latest techs. 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=joyhuan&show_icons=true&count_private=true&theme=dracula" />
 
