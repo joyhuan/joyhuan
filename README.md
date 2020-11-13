@@ -14,6 +14,7 @@ Notice that this breakdown is far from being accurate. It does not record the ti
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-Markdown   8 hrs 11 mins   █████████████████████████   99.88 % 
+Markdown   8 hrs 11 mins   ███████████████████████▓░   94.83 % 
+HTML       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 <!--END_SECTION:waka-->
