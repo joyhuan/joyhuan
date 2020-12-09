@@ -20,3 +20,12 @@ Markdown   22 mins         ▓░░░░░░░░░░░░░░░░�
 Python     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
+
+### For Fun
+Errors are red 
+
+Screen is blue 
+
+I think I deleted
+
+"System 32"
