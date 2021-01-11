@@ -14,7 +14,7 @@ Notice that this breakdown is far from being accurate. It does not record the ti
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   6 hrs 30 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
