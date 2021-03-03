@@ -7,9 +7,9 @@ Interested in network, infra, systems, and optimization. Love to sync with any i
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyhuan&theme=dracula" />
 
-I have several beloved repos hidden due to integrity reason but I do write C++ and Verilog a lot recently. This dashboard is a walkaround to encrypt my C++/Verilog contributions :)
+I have several beloved repos hidden due to integrity reason but I do write C++ and Verilog a lot. 
 
-Notice that this breakdown is far from being accurate. It does not record the time that I code on remote host, which consists of 90% of the time that I code. I don't want to install WakaTime on remote host yet so just bear with it for now. 
+I introduced this dashboard as a walkaround to encrypt my C++/Verilog contributions. However, this breakdown is far from being accurate. It does not record the time I spend on remote host/Latex/Jupyter Notebook. 
 
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
