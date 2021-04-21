@@ -14,7 +14,7 @@ I introduced this dashboard as a walkaround to encrypt my C++/Verilog contributi
 ### This week's dev breakdown 🖥:
 <!--START_SECTION:waka-->
 ```text
-Python   25 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
