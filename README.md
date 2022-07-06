@@ -19,4 +19,4 @@ I think I deleted
 
 Two things fill the mind with ever new and increasing admiration and awe, the oftener and the more steadily we reflect on them: the starry heavens above and the moral law within.” –Immanuel Kant, Critique of Practical Reason, 1788.
 
-有两样东西，我思索的回数愈多，时间愈久，它们充溢我以愈见刻刻常新、刻刻常增的惊异和严肃之感，那便是我头上的星空和心中的道德律。 --康德 《实践理性批判》
+有两种东西，我对它们的思考越是深沉和持久，他们在我心灵中唤起的赞叹和敬畏就会越来越历久弥新，一是我们头顶浩瀚灿烂的星空，一是我们心中崇高的的道德法则。 --康德 《实践理性批判》
